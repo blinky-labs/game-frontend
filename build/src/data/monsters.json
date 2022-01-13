@@ -1,0 +1,61 @@
+{
+    "monsters": [
+        {
+            "monster": {
+                "type": "Slime",
+                "image": "",
+                "name": {
+                    "first": [
+                        "Goop",
+                        "Muck",
+                        "Slop",
+                        "Mush"
+                    ],
+                    "second": [
+                        "Oozleton",
+                        "Goop",
+                        "Gunkle",
+                        "Joop",
+                        "Glop",
+                        "Gloopy"
+                    ]
+                }
+            }
+        },
+        {
+            "monster": {
+                "type": "Skeleton",
+                "image": "",
+                "name": {
+                    "first": [
+                        "Slim",
+                        "Gaunt",
+                        "Boney",
+                        "Morty",
+                        "Ivory",
+                        "Bare",
+                        "Endo",
+                        "Sans"
+                    ],
+                    "second": [
+                        "Lean",
+                        "Breaker",
+                        "Cage",
+                        "Humerus",
+                        "Ivory",
+                        "Marrow",
+                        "White",
+                        "Blade",
+                        "Spinestein",
+                        "Jangles",
+                        "Rattling",
+                        "Nobody",
+                        "Stiffani",
+                        "Skellington",
+                        "McRib"
+                    ]
+                }
+            }
+        }
+    ]
+}

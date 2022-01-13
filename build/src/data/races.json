@@ -1,0 +1,144 @@
+{
+    "areas": {
+        "prefix": [
+            "Brook",
+            "Rose",
+            "Castle",
+            "Gallows",
+            "Bracken",
+            "Mist",
+            "Dagger",
+            "Grim",
+            "Gold",
+            "Green",
+            "Silver",
+            "White",
+            "Night",
+            "Sandy",
+            "Hearth",
+            "Pine",
+            "Clay",
+            "Stoney",
+            "Salt",
+            "Loft",
+            "Bleak",
+            "Blood",
+            "Shilling",
+            "Tide",
+            "Sea",
+            "Reef",
+            "Free",
+            "Toll"
+        ],
+        "suffix": [
+            "gate",
+            "port",
+            "wood",
+            "haven",
+            "shore",
+            "post",
+            "shire",
+            "peak",
+            "bury",
+            "stable",
+            "field",
+            "ford",
+            "swade",
+            "mouth",
+            "ham",
+            "well",
+            "ville",
+            "hunt",
+            "leigh",
+            "down",
+            "ley",
+            "sworth",
+            "grove",
+            "win",
+            "bridge"
+        ],
+        "type": [
+            "Abby",
+            "Village",
+            "Moore",
+            "River",
+            "Pass",
+            "Plains",
+            "Isle",
+            "Town",
+            "Top",
+            "Outpost",
+            "Camp",
+            "Settlement",
+            "Cave",
+            "Fort",
+            "Fortress",
+            "Citadel",
+            "Garrison",
+            "Bunker",
+            "Bastion",
+            "Stronghold",
+            "Ramparts",
+            "Monestary",
+            "Convent",
+            "Canyon",
+            "Gorge",
+            "Chasm",
+            "Abyss",
+            "Hollow",
+            "Avenue",
+            "Wastelands",
+            "Grasslands",
+            "Meadows",
+            "Plateu",
+            "Tundras",
+            "Steppes",
+            "Forest",
+            "Woodland",
+            "Wetlands",
+            "Bog",
+            "Swamps",
+            "Marsh",
+            "Lowlands",
+            "Palace"
+        ]
+    },
+    "races": [
+        {
+            "name": "Human",
+            "language": "English"
+        },
+        {
+            "name": "Highborn",
+            "language": "English"
+        },
+        {
+            "name": "Pirate",
+            "language": "Pirate"
+        },
+        {
+            "name": "Mauka",
+            "language": "Ancient Egyptian"
+        },
+        {
+            "name": "Lumage",
+            "language": "Lycan"
+        },
+        {
+            "name": "Demon",
+            "language": "Enochian"
+        },
+        {
+            "name": "Demon",
+            "language": "Enochian"
+        },
+        {
+            "name": "Elf",
+            "language": "Elven"
+        },
+        {
+            "name": "Dark Elf",
+            "language": "Elven"
+        }
+    ]
+}
