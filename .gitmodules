@@ -1,0 +1,3 @@
+[submodule "game-phaser"]
+	path = game-phaser
+	url = https://github.com/blinky-labs/game-phaser.git
